@@ -1,0 +1,1 @@
+From boilerplate   -  https://github.com/hendrikswan/react-boilerplate
